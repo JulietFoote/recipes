@@ -1,9 +1,8 @@
 #Ingredients
 
-avocado
-tomato
-lime
+-avocado
+-~~tomato~~
+-lime
 
 #Instructions
-mix together
--put it *all* in blender
+Put it *all* in **blender**
